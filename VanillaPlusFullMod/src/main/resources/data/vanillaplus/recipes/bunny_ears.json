@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "W W",
+    "WWW"
+  ],
+  "key": {
+    "W": { "item": "minecraft:white_wool" }
+  },
+  "result": {
+    "item": "vanillaplus:bunny_ears"
+  }
+}

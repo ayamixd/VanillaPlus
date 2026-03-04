@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="MIT"
+
+[[mods]]
+modId="vanillaplus"
+version="1.0"
+displayName="Vanilla Plus"
+description='''
+Optimization and vanilla visual enhancement mod.
+'''
